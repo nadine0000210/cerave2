@@ -186,6 +186,14 @@ footer p {
   
   }
   .logo{
-    font-style: italic;
-    font-size: medium;
+    /* font-style: italic;
+    font-size: medium; */
+  }
+  .-loaded{
+    font-size: large;
+    font-weight: 200;
+  }
+  .second{
+    color: palevioletred;
+    padding: 10px;
   }
